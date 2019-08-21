@@ -1,4 +1,4 @@
-# Site settings
+﻿# Site settings
 title: Destiny Child  #你博客的标题
 SEOTitle: Destiny Child | BY HH  #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-desk.jpg #显示在首页的背景图片
@@ -97,7 +97,7 @@ service-worker: true
 
 
 # Friends
-friends: [
+# friends: [
     {
         title: "WY",
         href: "http://zhengwuyang.com"
