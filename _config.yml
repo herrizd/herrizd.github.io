@@ -3,11 +3,11 @@ title: Destiny Child  #你博客的标题
 SEOTitle: Destiny Child | BY HH  #显示在浏览器上搜索的时候显示的标题
 header-img: img/post-bg-desk.jpg #显示在首页的背景图片
 email: herrizhan@gmail.com
-description: "DC国际部落--" #网站介绍
-keyword: "Destiny Child, PVP,PVE"
-url: "destinychild.github.io"          # your host, for absolute URL
+description: "人蛤乐园--" #网站介绍
+keyword: "FBP,SAP,VB,FA,INFO"
+url: "herrizd.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/herrizd/destinychild.github.io.git" # you code repository
+github_repo: "https://github.com/herrizd/herrizd.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
